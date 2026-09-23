@@ -1,0 +1,340 @@
+[
+  {
+    "letter": "A",
+    "source": "xl/drawings/drawing2.xml",
+    "text": [
+      "A",
+      "ANTANG",
+      "A - N - T - A - N - G",
+      "AN - TANG",
+      "BURUNG ELANG"
+    ],
+    "image": "xl/media/image2.png",
+    "sha256": "d78d1725e84fa7c5cba23a45972471a82aac3f4de053dab5ce58225e3292a188"
+  },
+  {
+    "letter": "B",
+    "source": "xl/drawings/drawing3.xml",
+    "text": [
+      "B",
+      "BETANG",
+      "B - E - T - A - N - G",
+      "BE - TANG",
+      "RUMAH ADAT DAYAK"
+    ],
+    "image": "xl/media/image3.png",
+    "sha256": "642f551eb35eeba9851c8eacee9cded84f519a82e818b60abfe8bdf093a13d05"
+  },
+  {
+    "letter": "C",
+    "source": "xl/drawings/drawing4.xml",
+    "text": [
+      "C",
+      "CACORONG",
+      "C - A - C - O - R - O - N - G",
+      "CA - CO - RONG",
+      "CORONG CAIRAN"
+    ],
+    "image": "xl/media/image4.png",
+    "sha256": "b7eb26ade848a5abaeb348e40219658f0ca10a73a127349c305ff4c0c237dd55"
+  },
+  {
+    "letter": "D",
+    "source": "xl/drawings/drawing5.xml",
+    "text": [
+      "D",
+      "DAWEN",
+      "D - A - W - E - N",
+      "DA - WEN",
+      "DAUN"
+    ],
+    "image": "xl/media/image5.png",
+    "sha256": "f9a58cf3d148644022f6cced3d2b833568637f2078aecd416260a29e908b5c4c"
+  },
+  {
+    "letter": "E",
+    "source": "xl/drawings/drawing6.xml",
+    "text": [
+      "E",
+      "ENYUH",
+      "E - N - Y - U - H",
+      "E - NYUH",
+      "KELAPA"
+    ],
+    "image": "xl/media/image6.png",
+    "sha256": "2e550e3db469eedaceac4576f00618306272b83f6aebd53de8869a691abb4e0c"
+  },
+  {
+    "letter": "F",
+    "source": "xl/drawings/drawing7.xml",
+    "text": [
+      "F",
+      "FOTO",
+      "F - O - T - O",
+      "FO - TO",
+      "FOTO, GAMBAR"
+    ],
+    "image": "xl/media/image7.png",
+    "sha256": "e5ce7c362ae70a13be69976dd16bed7ece90b026e908639b68c8ef806a1b2b3b"
+  },
+  {
+    "letter": "G",
+    "source": "xl/drawings/drawing8.xml",
+    "text": [
+      "G",
+      "GASING",
+      "G - A - S - I - N - G",
+      "GA - SING",
+      "MAINAN KAYU BERPUTAR"
+    ],
+    "image": "xl/media/image8.png",
+    "sha256": "9a33ff6ae417256f48040c0750f9e28693258230f4b384b7ee2391da47323727"
+  },
+  {
+    "letter": "H",
+    "source": "xl/drawings/drawing9.xml",
+    "text": [
+      "H",
+      "HANDIPE",
+      "H - A - N - D - I - P - E",
+      "HAN - DI - PE",
+      "ULAR"
+    ],
+    "image": "xl/media/image9.png",
+    "sha256": "1db70adac68f3e30f964fd6f8fcd49fb82663cf87c254eaff02c70d324f757df"
+  },
+  {
+    "letter": "I",
+    "source": "xl/drawings/drawing10.xml",
+    "text": [
+      "I",
+      "IKUH",
+      "I - K - U - H",
+      "I - KUH",
+      "EKOR"
+    ],
+    "image": "xl/media/image10.png",
+    "sha256": "c85795d6c17c0d767faef7a4cb17c4fc4b980e833657f8bb8c123e7cf0dee875"
+  },
+  {
+    "letter": "J",
+    "source": "xl/drawings/drawing11.xml",
+    "text": [
+      "J",
+      "JUKUNG",
+      "J - U - K - U - N - G",
+      "JU - KUNG",
+      "PERAHU, SAMPAN"
+    ],
+    "image": "xl/media/image11.png",
+    "sha256": "84a049e1d259b76ff8da132dbbdbdf9274c32e946558db3e2ac57b2f833241b4"
+  },
+  {
+    "letter": "K",
+    "source": "xl/drawings/drawing12.xml",
+    "text": [
+      "K",
+      "KARUSI",
+      "K - A - R - U - S - I",
+      "KA - RU - SI",
+      "KURSI"
+    ],
+    "image": "xl/media/image12.png",
+    "sha256": "636dec86aeb39fbbc81399a4be5632dc9acaa8b18b081fc439e806d9ded5e0ad"
+  },
+  {
+    "letter": "L",
+    "source": "xl/drawings/drawing13.xml",
+    "text": [
+      "L",
+      "LAUK",
+      "L - A - U - K",
+      "LA - UK",
+      "IKAN"
+    ],
+    "image": "xl/media/image13.png",
+    "sha256": "df7a50daafefdffe210c793c8283543049838a1645d67d4c5d3047c67767eb38"
+  },
+  {
+    "letter": "M",
+    "source": "xl/drawings/drawing14.xml",
+    "text": [
+      "M",
+      "MANDAU",
+      "M - A - N - D - A - U",
+      "MAN - DAU",
+      "SENJATA KHAS DAYAK"
+    ],
+    "image": "xl/media/image14.png",
+    "sha256": "9498b9f6e0fe06f97846a274664891412751b19c37aa435b18ce8600c7dbc909"
+  },
+  {
+    "letter": "N",
+    "source": "xl/drawings/drawing15.xml",
+    "text": [
+      "N",
+      "NATAMBA",
+      "N - A - T - A - M - B - A",
+      "NA - TAM - BA",
+      "BEROBAT, DIOBATI"
+    ],
+    "image": "xl/media/image15.png",
+    "sha256": "ab3dab22c6016f67f42ac540a5ebcad5439be334ae1f47007a44b5710b2bf722"
+  },
+  {
+    "letter": "O",
+    "source": "xl/drawings/drawing16.xml",
+    "text": [
+      "O",
+      "OLOH BAKAS",
+      "O - L - O - H    B - A - K - A - S",
+      "O - LOH  BA - KAS",
+      "ORANG TUA"
+    ],
+    "image": "xl/media/image16.png",
+    "sha256": "bf196299a0a47fe7eec7f1b1b59dfc866e6934d4c246520abc5b581756c11896"
+  },
+  {
+    "letter": "P",
+    "source": "xl/drawings/drawing17.xml",
+    "text": [
+      "P",
+      "PAPAS",
+      "P - A - P - A - S",
+      "PA - PAS",
+      "SAPU"
+    ],
+    "image": "xl/media/image17.png",
+    "sha256": "bdd55d99801a86297c620ad81be4c16493469e12644c0fe4850a722428d5bc3c"
+  },
+  {
+    "letter": "Q",
+    "source": "xl/drawings/drawing18.xml",
+    "text": [
+      "Q",
+      "PUSA",
+      "P - U - S - A",
+      "PU - SA",
+      "KUCING"
+    ],
+    "image": "xl/media/image18.png",
+    "sha256": "8a8ce954a96a3c4fa3cee8f822725380b56fc38a4c251d447cb3b8d96f1b3446"
+  },
+  {
+    "letter": "R",
+    "source": "xl/drawings/drawing19.xml",
+    "text": [
+      "R",
+      "RUTIK",
+      "R - U - T - I - K",
+      "RU - TIK",
+      "SAMPAH, SERPIHAN"
+    ],
+    "image": "xl/media/image19.png",
+    "sha256": "837ec29aed0fcfecc90a38c4b9173908ceb14518b8fa39909eb8dcf9b3ea8d29"
+  },
+  {
+    "letter": "S",
+    "source": "xl/drawings/drawing20.xml",
+    "text": [
+      "S",
+      "SANAMAN",
+      "S - E - N - A - M - A - N",
+      "SA - NA - MAN",
+      "BESI"
+    ],
+    "image": "xl/media/image20.png",
+    "sha256": "0084a76606b7dbe2632f4301f1e629d0a116a6bc00fb26689728d5ed2b173349"
+  },
+  {
+    "letter": "T",
+    "source": "xl/drawings/drawing21.xml",
+    "text": [
+      "T",
+      "TANTELOH",
+      "T - A - N - T - E - L - O - H",
+      "TAN - TE - LOH",
+      "TELUR"
+    ],
+    "image": "xl/media/image21.png",
+    "sha256": "e8c9cff2e30130212356e33ae879c4eef5f769feae234ecf392b56a4d2ef0a06"
+  },
+  {
+    "letter": "U",
+    "source": "xl/drawings/drawing22.xml",
+    "text": [
+      "U",
+      "UHAT",
+      "U - H - A - T",
+      "U - HAT",
+      "AKAR"
+    ],
+    "image": "xl/media/image22.png",
+    "sha256": "eae421e5c12d7542fe011b6f4afa076f5982223d7ec7dd7694576a82310ac49e"
+  },
+  {
+    "letter": "V",
+    "source": "xl/drawings/drawing23.xml",
+    "text": [
+      "V",
+      "VAS",
+      "V - A - S",
+      "VAS",
+      "VAS, TEMPAT BUNGA"
+    ],
+    "image": "xl/media/image23.png",
+    "sha256": "177f27259ea062ba6e5be3b8c8d1ec9cd5424911a2f0c55ab64c9d9098727ffb"
+  },
+  {
+    "letter": "W",
+    "source": "xl/drawings/drawing24.xml",
+    "text": [
+      "W",
+      "WADAI",
+      "W - A - D - A - I",
+      "WA - DAI",
+      "KUE"
+    ],
+    "image": "xl/media/image24.png",
+    "sha256": "9193ad70efe2d7b12ff12c941dc54d5dc0f97acfa7658553c26fb022ed85838e"
+  },
+  {
+    "letter": "X",
+    "source": "xl/drawings/drawing25.xml",
+    "text": [
+      "X",
+      "LANTING",
+      "L - A - N - T - I - N - G",
+      "LAN - TING",
+      "RAKIT, RUMAH TERAPUNG"
+    ],
+    "image": "xl/media/image25.png",
+    "sha256": "968826e5fb81db4af65eec61da29510d7e33020dba9d66ad2410eb566d077b45"
+  },
+  {
+    "letter": "Y",
+    "source": "xl/drawings/drawing26.xml",
+    "text": [
+      "Y",
+      "KAMBE",
+      "K - A - M - B - E",
+      "KAM - BE",
+      "HANTU"
+    ],
+    "image": "xl/media/image26.png",
+    "sha256": "d963eca0dfd9eafd222f553fd313b1cbf8fcc206e6449059798e51458c30decc"
+  },
+  {
+    "letter": "Z",
+    "source": "xl/drawings/drawing27.xml",
+    "text": [
+      "Z",
+      "ZEBRA",
+      "Z - E - B - R - A",
+      "ZE - BRA",
+      "ZEBRA"
+    ],
+    "image": "xl/media/image27.png",
+    "sha256": "bbe4366fcc23e18818e93d5b8b9f00b47c4b7deee088d548d14b6f40444fa4cb"
+  }
+]
