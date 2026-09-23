@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cards>
+  <card letter="A">
+    <word>ANTANG</word>
+    <spelling>A - N - T - A - N - G</spelling>
+    <syllables>AN - TANG</syllables>
+    <meaning>BURUNG ELANG</meaning>
+    <image>gambar/A.png</image>
+  </card>
+  <card letter="B">
+    <word>BETANG</word>
+    <spelling>B - E - T - A - N - G</spelling>
+    <syllables>BE - TANG</syllables>
+    <meaning>RUMAH ADAT DAYAK</meaning>
+    <image>gambar/B.png</image>
+  </card>
+  <card letter="C">
+    <word>CACORONG</word>
+    <spelling>C - A - C - O - R - O - N - G</spelling>
+    <syllables>CA - CO - RONG</syllables>
+    <meaning>CORONG CAIRAN</meaning>
+    <image>gambar/C.png</image>
+  </card>
+  <card letter="D">
+    <word>DAWEN</word>
+    <spelling>D - A - W - E - N</spelling>
+    <syllables>DA - WEN</syllables>
+    <meaning>DAUN</meaning>
+    <image>gambar/D.png</image>
+  </card>
+  <card letter="E">
+    <word>ENYUH</word>
+    <spelling>E - N - Y - U - H</spelling>
+    <syllables>E - NYUH</syllables>
+    <meaning>KELAPA</meaning>
+    <image>gambar/E.png</image>
+  </card>
+  <card letter="F">
+    <word>FOTO</word>
+    <spelling>F - O - T - O</spelling>
+    <syllables>FO - TO</syllables>
+    <meaning>FOTO, GAMBAR</meaning>
+    <image>gambar/F.png</image>
+  </card>
+  <card letter="G">
+    <word>GASING</word>
+    <spelling>G - A - S - I - N - G</spelling>
+    <syllables>GA - SING</syllables>
+    <meaning>MAINAN KAYU BERPUTAR</meaning>
+    <image>gambar/G.png</image>
+  </card>
+  <card letter="H">
+    <word>HANDIPE</word>
+    <spelling>H - A - N - D - I - P - E</spelling>
+    <syllables>HAN - DI - PE</syllables>
+    <meaning>ULAR</meaning>
+    <image>gambar/H.png</image>
+  </card>
+  <card letter="I">
+    <word>IKUH</word>
+    <spelling>I - K - U - H</spelling>
+    <syllables>I - KUH</syllables>
+    <meaning>EKOR</meaning>
+    <image>gambar/I.png</image>
+  </card>
+  <card letter="J">
+    <word>JUKUNG</word>
+    <spelling>J - U - K - U - N - G</spelling>
+    <syllables>JU - KUNG</syllables>
+    <meaning>PERAHU, SAMPAN</meaning>
+    <image>gambar/J.png</image>
+  </card>
+  <card letter="K">
+    <word>KARUSI</word>
+    <spelling>K - A - R - U - S - I</spelling>
+    <syllables>KA - RU - SI</syllables>
+    <meaning>KURSI</meaning>
+    <image>gambar/K.png</image>
+  </card>
+  <card letter="L">
+    <word>LAUK</word>
+    <spelling>L - A - U - K</spelling>
+    <syllables>LA - UK</syllables>
+    <meaning>IKAN</meaning>
+    <image>gambar/L.png</image>
+  </card>
+  <card letter="M">
+    <word>MANDAU</word>
+    <spelling>M - A - N - D - A - U</spelling>
+    <syllables>MAN - DAU</syllables>
+    <meaning>SENJATA KHAS DAYAK</meaning>
+    <image>gambar/M.png</image>
+  </card>
+  <card letter="N">
+    <word>NATAMBA</word>
+    <spelling>N - A - T - A - M - B - A</spelling>
+    <syllables>NA - TAM - BA</syllables>
+    <meaning>BEROBAT, DIOBATI</meaning>
+    <image>gambar/N.png</image>
+  </card>
+  <card letter="O">
+    <word>OLOH BAKAS</word>
+    <spelling>O - L - O - H    B - A - K - A - S</spelling>
+    <syllables>O - LOH  BA - KAS</syllables>
+    <meaning>ORANG TUA</meaning>
+    <image>gambar/O.png</image>
+  </card>
+  <card letter="P">
+    <word>PAPAS</word>
+    <spelling>P - A - P - A - S</spelling>
+    <syllables>PA - PAS</syllables>
+    <meaning>SAPU</meaning>
+    <image>gambar/P.png</image>
+  </card>
+  <card letter="Q">
+    <word>PUSA</word>
+    <spelling>P - U - S - A</spelling>
+    <syllables>PU - SA</syllables>
+    <meaning>KUCING</meaning>
+    <image>gambar/Q.png</image>
+  </card>
+  <card letter="R">
+    <word>RUTIK</word>
+    <spelling>R - U - T - I - K</spelling>
+    <syllables>RU - TIK</syllables>
+    <meaning>SAMPAH, SERPIHAN</meaning>
+    <image>gambar/R.png</image>
+  </card>
+  <card letter="S">
+    <word>SANAMAN</word>
+    <spelling>S - E - N - A - M - A - N</spelling>
+    <syllables>SA - NA - MAN</syllables>
+    <meaning>BESI</meaning>
+    <image>gambar/S.png</image>
+  </card>
+  <card letter="T">
+    <word>TANTELOH</word>
+    <spelling>T - A - N - T - E - L - O - H</spelling>
+    <syllables>TAN - TE - LOH</syllables>
+    <meaning>TELUR</meaning>
+    <image>gambar/T.png</image>
+  </card>
+  <card letter="U">
+    <word>UHAT</word>
+    <spelling>U - H - A - T</spelling>
+    <syllables>U - HAT</syllables>
+    <meaning>AKAR</meaning>
+    <image>gambar/U.png</image>
+  </card>
+  <card letter="V">
+    <word>VAS</word>
+    <spelling>V - A - S</spelling>
+    <syllables>VAS</syllables>
+    <meaning>VAS, TEMPAT BUNGA</meaning>
+    <image>gambar/V.png</image>
+  </card>
+  <card letter="W">
+    <word>WADAI</word>
+    <spelling>W - A - D - A - I</spelling>
+    <syllables>WA - DAI</syllables>
+    <meaning>KUE</meaning>
+    <image>gambar/W.png</image>
+  </card>
+  <card letter="X">
+    <word>LANTING</word>
+    <spelling>L - A - N - T - I - N - G</spelling>
+    <syllables>LAN - TING</syllables>
+    <meaning>RAKIT, RUMAH TERAPUNG</meaning>
+    <image>gambar/X.png</image>
+  </card>
+  <card letter="Y">
+    <word>KAMBE</word>
+    <spelling>K - A - M - B - E</spelling>
+    <syllables>KAM - BE</syllables>
+    <meaning>HANTU</meaning>
+    <image>gambar/Y.png</image>
+  </card>
+  <card letter="Z">
+    <word>ZEBRA</word>
+    <spelling>Z - E - B - R - A</spelling>
+    <syllables>ZE - BRA</syllables>
+    <meaning>ZEBRA</meaning>
+    <image>gambar/Z.png</image>
+  </card>
+</cards>
