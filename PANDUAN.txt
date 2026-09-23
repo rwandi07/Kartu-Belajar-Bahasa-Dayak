@@ -1,0 +1,97 @@
+KARTU BACA BASA DAYAK NGAJU
+Paket pengembangan tahap 0–4 / versi 0.4.2
+
+PANDUAN ADMIN
+Petunjuk pemasangan audio hanya ada di file ini, tidak di menu anak.
+
+MEMPERBARUI VERSI LAMA
+Tutup aplikasi. Ekstrak paket baru ke folder lama dan pilih ganti file
+yang sama, lalu klik MULAI.bat. Peluncur akan membangun ulang versi UI
+0.4.2. File MP3 tambahan milikmu tidak ditimpa oleh paket ini.
+
+CARA MEMULAI DI WINDOWS 10 / 11
+1. Klik kanan ZIP, pilih Extract All / Ekstrak Semua.
+2. Buka folder KartuBacaNgaju hasil ekstraksi.
+3. Klik dua kali MULAI.bat.
+4. Pada penggunaan pertama, peluncur membangun KartuBacaNgaju.exe
+   menggunakan compiler .NET Framework bawaan Windows, lalu menjalankan
+   pemeriksaan otomatis. Tidak perlu Excel, Python, atau koneksi internet.
+5. Selanjutnya boleh langsung membuka KartuBacaNgaju.exe.
+
+Paket ini menyertakan kode sumber, bukan .exe yang sudah dikompilasi.
+Jangan menjalankan langsung dari dalam ZIP. Simpan seluruh folder di lokasi
+yang bisa ditulis, misalnya Documents. Tidak memerlukan hak administrator.
+Jika compiler tidak tersedia pada konfigurasi Windows kamu, peluncur akan
+menampilkan pesan. Kirim isi logs/build.txt untuk diperiksa.
+
+PENGGUNAAN
+- Pilih salah satu huruf untuk membuka kartu terkait.
+- Mulai dari A: kartu dalam urutan A–Z.
+- Belajar Acak: 26 kartu diacak sekali setiap sesi, tanpa duplikat.
+- Sebelumnya: kembali dalam urutan sesi yang sama, termasuk saat acak.
+- Berikutnya: maju. Pada kartu terakhir, tombol menjadi Selesai — Menu.
+- Sesi baru dimulai dengan memilih Belajar Acak lagi dari menu utama.
+- Menu Utama menghentikan audio dan kembali ke pilihan huruf.
+- Tombol Dengarkan Ejaan selalu tersedia walaupun MP3 belum dipasang.
+- Menekan Dengarkan Ejaan lagi mengulang audio dari awal.
+- Hentikan menghentikan audio. Berpindah kartu atau menutup aplikasi juga
+  menghentikan audio.
+
+KEYBOARD
+Panah kanan/kiri : berikutnya/sebelumnya dalam halaman kartu.
+Spasi            : putar/ulang audio kartu yang sedang dibuka.
+Home             : menu utama.
+F11              : masuk/keluar layar penuh pada monitor aplikasi.
+Esc              : keluar layar penuh; jika tidak layar penuh, kembali ke menu.
+Tab dan Enter    : pilih dan aktifkan tombol.
+
+MEMASANG REKAMAN MP3
+Folder audio berada di samping KartuBacaNgaju.exe.
+Tidak ada rekaman bawaan. Kamu bebas mengisi rekaman ejaan belakangan.
+Gunakan nama sesuai HURUF KARTU, bukan huruf awal kata:
+
+A.mp3 = ANTANG       B.mp3 = BETANG       C.mp3 = CACORONG
+D.mp3 = DAWEN        E.mp3 = ENYUH        F.mp3 = FOTO
+G.mp3 = GASING       H.mp3 = HANDIPE      I.mp3 = IKUH
+J.mp3 = JUKUNG       K.mp3 = KARUSI       L.mp3 = LAUK
+M.mp3 = MANDAU       N.mp3 = NATAMBA      O.mp3 = OLOH BAKAS
+P.mp3 = PAPAS        Q.mp3 = PUSA         R.mp3 = RUTIK
+S.mp3 = SANAMAN      T.mp3 = TANTELOH     U.mp3 = UHAT
+V.mp3 = VAS          W.mp3 = WADAI        X.mp3 = LANTING
+Y.mp3 = KAMBE        Z.mp3 = ZEBRA
+
+1. Rekam ejaan yang diinginkan dan ekspor sebagai MP3 asli.
+2. Namai sesuai daftar di atas. Pastikan tidak menjadi A.mp3.mp3.
+3. Salin ke folder audio. Boleh mengisi sebagian terlebih dahulu.
+4. Klik Dengarkan Ejaan di kartu terkait. Tidak perlu mengubah kode,
+   membangun ulang, atau memulai ulang aplikasi.
+5. Sebelum mengganti MP3 yang sedang diputar, klik Hentikan dahulu.
+
+Jika file belum ada, aplikasi menampilkan Audio belum tersedia.
+Jika file rusak/tidak didukung, aplikasi menampilkan pesan tanpa menutup
+aplikasi. Coba ekspor ulang sebagai MP3. Mengganti nama .m4a atau .wav
+menjadi .mp3 tidak mengubah format audio. Windows edisi N/KN mungkin
+memerlukan komponen media Windows agar MP3 dapat diputar.
+
+MATERI
+Semua teks dan pasangan gambar diambil dari Excel yang diberikan.
+Q=PUSA, X=LANTING, Y=KAMBE, dan Z=ZEBRA mengikuti sumber.
+Kartu S tetap menampilkan SANAMAN dengan ejaan S - E - N - A - M - A - N
+sebagaimana Excel. Tidak ada koreksi bahasa otomatis.
+
+STRUKTUR FOLDER
+data/kartu.xml : isi 26 kartu.
+gambar        : gambar asli dan bingkai dari Excel.
+audio         : tempat MP3 milik pengguna.
+src           : sumber aplikasi dan catatan ekstraksi.
+logs          : laporan build, pemeriksaan otomatis, dan kesalahan.
+
+Jangan memindahkan .exe sendirian. Pindahkan seluruh folder bila berganti
+laptop. Simpan cadangan folder audio setelah mengisi rekaman.
+
+BATAS PENGUJIAN PAKET INI
+Ekstraksi data dan gambar diperiksa di lingkungan Linux. Kompilasi native,
+tampilan Windows, keyboard, layar penuh, dan pemutaran MP3 belum dijalankan
+di Windows oleh pembuat paket ini. Pemeriksaan otomatis berjalan di laptop
+saat build pertama. Gunakan UJI-COBA.txt untuk pemeriksaan manual.
+Tahap 5 (ikon final dan pengemasan rilis) belum dikerjakan.
