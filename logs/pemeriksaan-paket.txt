@@ -1,0 +1,44 @@
+PEMERIKSAAN PAKET DI LINUX
+
+A: teks identik dengan sumber; gambar identik dan valid
+B: teks identik dengan sumber; gambar identik dan valid
+C: teks identik dengan sumber; gambar identik dan valid
+D: teks identik dengan sumber; gambar identik dan valid
+E: teks identik dengan sumber; gambar identik dan valid
+F: teks identik dengan sumber; gambar identik dan valid
+G: teks identik dengan sumber; gambar identik dan valid
+H: teks identik dengan sumber; gambar identik dan valid
+I: teks identik dengan sumber; gambar identik dan valid
+J: teks identik dengan sumber; gambar identik dan valid
+K: teks identik dengan sumber; gambar identik dan valid
+L: teks identik dengan sumber; gambar identik dan valid
+M: teks identik dengan sumber; gambar identik dan valid
+N: teks identik dengan sumber; gambar identik dan valid
+O: teks identik dengan sumber; gambar identik dan valid
+P: teks identik dengan sumber; gambar identik dan valid
+Q: teks identik dengan sumber; gambar identik dan valid
+R: teks identik dengan sumber; gambar identik dan valid
+S: teks identik dengan sumber; gambar identik dan valid
+T: teks identik dengan sumber; gambar identik dan valid
+U: teks identik dengan sumber; gambar identik dan valid
+V: teks identik dengan sumber; gambar identik dan valid
+W: teks identik dengan sumber; gambar identik dan valid
+X: teks identik dengan sumber; gambar identik dan valid
+Y: teks identik dengan sumber; gambar identik dan valid
+Z: teks identik dengan sumber; gambar identik dan valid
+
+Bingkai: identik dengan sumber.
+Manifest dan data XML: valid.
+MP3 bawaan: tidak ada, sesuai permintaan.
+
+BELUM DIJALANKAN: kompilasi C#, pemeriksaan otomatis C#, antarmuka Windows, dan pemutaran MP3.
+Pemeriksaan otomatis C# akan dijalankan oleh peluncur saat build pertama di Windows.
+
+REVISI 0.4.1: data dan 27 aset gambar identik dengan versi sebelumnya.
+26 posisi tombol tidak bertumpuk; panduan admin dihapus dari kode UI.
+Peluncur diperbarui untuk membangun ulang versi UI 0.4.1.
+Tampilan dan kompilasi revisi belum diuji di Windows.
+
+0.4.2: dicek bahwa resize tidak membuang font, penjaga transisi tersedia,
+versi peluncur sesuai, data dan gambar identik.
+Uji runtime font/layar penuh masih memerlukan Windows.
