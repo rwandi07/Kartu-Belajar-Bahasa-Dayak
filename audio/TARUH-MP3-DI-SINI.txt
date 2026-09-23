@@ -1,0 +1,4 @@
+Letakkan rekaman A.mp3 sampai Z.mp3 di folder ini.
+Nama mengikuti huruf kartu: Q.mp3 untuk PUSA, X.mp3 untuk LANTING,
+Y.mp3 untuk KAMBE. Lihat PANDUAN.txt untuk daftar lengkap.
+Folder ini sengaja belum berisi suara.
