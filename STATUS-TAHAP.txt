@@ -1,0 +1,49 @@
+KARTU BACA BASA DAYAK NGAJU — VERSI UJI 0.4.2
+
+TAHAP 0 — KONSEP DITETAPKAN
+Windows 10/11; offline; satu pengguna; tanpa akun/server/Excel saat berjalan.
+26 kartu mengikuti materi sumber, termasuk pasangan Q, X, Y, Z.
+Gambar dan bingkai asli dipertahankan; tata letak disesuaikan untuk aplikasi.
+Audio MP3 eksternal dan belum diisi.
+Teknologi: C# Windows Forms, .NET Framework, pemutar media Windows MCI.
+
+TAHAP 1 — FONDASI DITULIS
+Jendela, menu, struktur data/gambar/audio, penskalaan tampilan proporsional.
+Peluncur membangun .exe di Windows dengan compiler bawaan .NET Framework.
+
+TAHAP 2 — KARTU DITULIS
+Pilihan A–Z, gambar, kata, ejaan, suku kata, arti, dan navigasi.
+
+TAHAP 3 — MODE BELAJAR DAN AUDIO DITULIS
+Urutan acak 26 kartu tanpa duplikat per sesi, riwayat sebelumnya,
+layar penuh, mouse/keyboard, MP3 eksternal, putar ulang, hentikan,
+audio berhenti saat pindah/menu/tutup, pesan jika audio kosong/rusak.
+
+TAHAP 4 — PEMERIKSAAN DATA SELESAI; UJI WINDOWS MENUNGGU
+26 teks dan gambar cocok dengan Excel; XML dan struktur paket diperiksa.
+Pemeriksaan otomatis tersedia di kode dan dijalankan saat build pertama:
+26 gambar, pilihan huruf, 1000 putaran acak, batas maju/mundur,
+serta penanganan MP3 yang tidak ditemukan.
+Pemeriksaan otomatis tersebut BELUM dijalankan di lingkungan pembuat.
+Belum ada compiler/runtime Windows dalam lingkungan pengerjaan Linux ini.
+Kompilasi C#, tampilan, keyboard, layar penuh, dan MP3 perlu diuji di laptop.
+Gunakan UJI-COBA.txt dan laporkan kendala sebelum menyatakan tahap 4 lulus.
+
+TAHAP 5 — BELUM DIKERJAKAN
+Ikon final, kompilasi paket rilis yang sudah lolos uji, dan pengemasan final.
+Panduan MP3 disediakan lebih awal untuk membantu uji tahap 4.
+
+REVISI UI 0.4.1
+Menu memakai ilustrasi utuh dari Excel dengan karakter anak terlihat.
+Tombol biru A–Z disusun 8/7/6/5, dengan aksi mulai dan acak di tengah.
+Panduan admin audio dihapus dari antarmuka belajar.
+Materi, gambar kartu, dan mekanisme audio tidak diganti.
+Screenshot pengguna mengonfirmasi versi 0.4 dapat dibuka di Windows.
+Revisi 0.4.1 belum dijalankan langsung di Windows.
+
+PERBAIKAN 0.4.2
+Memperbaiki masa hidup font saat resize/layar penuh. Font dipakai ulang
+dan dilepas setelah kontrol selesai ditutup. Transisi layar penuh
+menunda penataan tombol hingga ukuran akhir ditetapkan.
+Menambahkan uji validitas Font.GetHeight pada 700 pergantian ukuran.
+Uji tersebut berjalan saat build di Windows, belum dijalankan di Linux.
