@@ -1,0 +1,36 @@
+CHECKLIST UJI WINDOWS — TAHAP 4
+
+[ ] Ekstrak ZIP dan klik MULAI.bat. Aplikasi terbuka.
+[ ] logs/uji-otomatis.txt berisi LULUS.
+[ ] Buka semua huruf A–Z: kata dan gambar sesuai Excel.
+[ ] Periksa Q=PUSA, X=LANTING, Y=KAMBE, Z=ZEBRA.
+[ ] Periksa kata terpanjang OLOH BAKAS dan ejaannya tidak terpotong.
+[ ] Sebelumnya nonaktif di awal; kartu terakhir kembali ke menu.
+[ ] Belajar Acak: 26 kartu berbeda; Sebelumnya mengunjungi kartu sebelumnya.
+[ ] Tab/Enter, panah, Home, Spasi, dan Esc berfungsi.
+[ ] F11 dan tombol layar penuh bisa masuk/keluar tanpa memotong tombol.
+[ ] Coba jendela kecil, maximized, dan skala layar Windows 125% / 150%.
+[ ] Klik audio saat belum ada MP3: Audio belum tersedia, aplikasi tetap jalan.
+[ ] Tambahkan MP3 uji sebagai audio/A.mp3; klik audio kartu A: terdengar.
+[ ] Klik ulang audio: mulai dari awal, tidak bertumpuk.
+[ ] Hentikan, pindah kartu, menu, atau tutup: audio berhenti.
+[ ] MP3 selesai: status berubah menjadi Audio selesai.
+[ ] Coba file tidak valid bernama B.mp3: pesan gagal tanpa aplikasi menutup.
+[ ] Hapus MP3 uji bila bukan rekaman ejaan yang benar.
+[ ] Putuskan internet: kartu dan MP3 tetap berfungsi.
+
+Jika gagal, kirim tangkapan layar, langkah yang dilakukan, dan file log
+yang tersedia. MP3 uji hanya untuk memeriksa pemutar, bukan materi final.
+
+UJI REVISI UI 0.4.1
+[ ] Karakter anak kiri/kanan dan ornamen terlihat pada menu.
+[ ] Tombol A–Z berjumlah 26 dan masing-masing membuka kartu yang benar.
+[ ] Panduan Audio tidak muncul di menu belajar.
+[ ] Mulai dari A, Belajar Acak, dan Layar Penuh berfungsi.
+
+UJI PERBAIKAN 0.4.2
+[ ] Di menu, tekan F11 masuk/keluar sebanyak 5 kali.
+[ ] Buka kartu A, lalu ulangi F11 sebanyak 5 kali.
+[ ] Coba tombol Layar Penuh serta Esc.
+[ ] Ubah ukuran jendela, maximize, lalu F11 dan keluar kembali.
+[ ] Pastikan tidak ada error Font.GetHeight dan tombol tetap dapat diklik.
